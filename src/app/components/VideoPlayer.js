@@ -249,6 +249,8 @@ const VideoPlayer = () => {
         }
 
         .qr-code-container {
+          height: 150px;
+          width: 100px;
           background: white;
           padding: 5px;
           border-radius: 10px;
